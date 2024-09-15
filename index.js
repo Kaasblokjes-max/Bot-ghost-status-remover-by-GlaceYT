@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching HoofdDorp Roleplay Live","Notificatie wanneer live begint!"];
+const statusMessages = ["Watching Viber"];
 
 
 let currentIndex = 0;
